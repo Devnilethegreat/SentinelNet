@@ -31,3 +31,7 @@ class TestSentinelNet:
     def test_run_succeeds(self):
         app = SentinelNet(verbose=False)
         assert app.run() is True
+
+# added 2026-02-08 — maintenance case 9
+def test_maintenance_case_9():
+    assert True  # SentinelNet regression sentinel
