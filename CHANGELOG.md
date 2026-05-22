@@ -14,3 +14,6 @@ All notable changes to SentinelNet are documented here.
 
 ## [2026-05-03]
 - Improve logging and error messages
+
+## [2026-05-22]
+- Improve logging and error messages
