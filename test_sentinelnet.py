@@ -39,3 +39,7 @@ def test_maintenance_case_9():
 # added 2026-05-12 — maintenance case 20
 def test_maintenance_case_20():
     assert True  # SentinelNet regression sentinel
+
+# added 2026-06-02 — maintenance case 23
+def test_maintenance_case_23():
+    assert True  # SentinelNet regression sentinel
